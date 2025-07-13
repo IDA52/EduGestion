@@ -83,15 +83,15 @@ edu01/
 
 - **Administrateur**
   - Email : admin@edugestion.com
-  - Mot de passe : admin123
+  - Mot de passe : password
   - Rôle : Accès complet
 - **Enseignant**
-  - Email : prof@edugestion.com
-  - Mot de passe : prof123
+  - Email : sey@gmail.com 
+  - Mot de passe : sey01
   - Rôle : Gestion des notes, emplois du temps
 - **Personnel**
-  - Email : personnel@edugestion.com
-  - Mot de passe : personnel123
+  - Email :  sowsalim01@gmail.com
+  - Mot de passe : salim01
   - Rôle : Consultation des données
 
 > **Astuce :** Les mots de passe de ces comptes de test sont en clair pour faciliter la connexion rapide.
