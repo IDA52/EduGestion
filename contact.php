@@ -338,7 +338,7 @@
                             </div>
                             <div>
                                 <h6 class="mb-1">Adresse</h6>
-                                <p class="mb-0 text-muted">123 Rue de l'Éducation<br>75001 Paris, France</p>
+                                <p class="mb-0 text-muted">123 Rue de l'Éducation<br>75001 DAKAR, SENEGAL</p>
                             </div>
                         </div>
 
@@ -403,7 +403,7 @@
                     <div class="text-center">
                         <i class="fas fa-map-marked-alt fa-3x mb-3 text-muted"></i>
                         <p class="mb-0">Carte interactive</p>
-                        <small class="text-muted">123 Rue de l'Éducation, 75001 Paris</small>
+                        <small class="text-muted">123 Rue de l'Éducation, 75001 DAKAR</small>
                     </div>
                 </div>
             </div>
@@ -416,7 +416,7 @@
             <div class="row align-items-center">
                 <div class="col-md-6">
                     <p class="mb-0 text-muted">
-                        © 2024 EduGestion. Tous droits réservés.
+                        © 2025 EduGestion. Tous droits réservés.
                     </p>
                 </div>
                 <div class="col-md-6 text-md-end">
